@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\IT-2023\\1-GIT-Projects\\ASP_NET\\myaspnetproject\\Jokes_app\\JokesWebApp\\",
+  "WorkspaceRootPath": "D:\\IT-2023\\1-GIT-Projects\\ASP_NET\\myaspnetproject\\ASP.NET-Core-Web-Database-App\\Jokes_app\\JokesWebApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{75B0D187-7801-4350-8D0B-943995C15C94}|JokesWebApp.csproj|d:\\it-2023\\1-git-projects\\asp_net\\myaspnetproject\\jokes_app\\jokeswebapp\\views\\jokes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{75B0D187-7801-4350-8D0B-943995C15C94}|JokesWebApp.csproj|d:\\it-2023\\1-git-projects\\asp_net\\myaspnetproject\\asp.net-core-web-database-app\\jokes_app\\jokeswebapp\\views\\jokes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{75B0D187-7801-4350-8D0B-943995C15C94}|JokesWebApp.csproj|solutionrelative:views\\jokes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\IT-2023\\1-GIT-Projects\\ASP_NET\\myaspnetproject\\Jokes_app\\JokesWebApp\\Views\\Jokes\\Create.cshtml",
+              "DocumentMoniker": "D:\\IT-2023\\1-GIT-Projects\\ASP_NET\\myaspnetproject\\ASP.NET-Core-Web-Database-App\\Jokes_app\\JokesWebApp\\Views\\Jokes\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Jokes\\Create.cshtml",
-              "ToolTip": "D:\\IT-2023\\1-GIT-Projects\\ASP_NET\\myaspnetproject\\Jokes_app\\JokesWebApp\\Views\\Jokes\\Create.cshtml",
+              "ToolTip": "D:\\IT-2023\\1-GIT-Projects\\ASP_NET\\myaspnetproject\\ASP.NET-Core-Web-Database-App\\Jokes_app\\JokesWebApp\\Views\\Jokes\\Create.cshtml",
               "RelativeToolTip": "Views\\Jokes\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
