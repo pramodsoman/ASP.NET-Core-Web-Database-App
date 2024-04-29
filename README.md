@@ -2,7 +2,8 @@
 # ASP.NET Core Web Database App (Jokes Web App)
 
 ## Overview:
-This project is a demonstration of creating a web database application using ASP.NET Core, Visual Studio, and C#. It showcases the implementation of the MVC (Model View Controller) design pattern, configuration of database tables using Entity Framework, customization of Razor forms, creation of controller methods, styling pages with CSS and Bootstrap, and integration of a search function to filter database results.
+
+This project is a demonstration of creating a web database application using ASP.NET Core, Visual Studio, and C# that allows users to create, read, update, and delete jokes. It showcases the implementation of the MVC (Model View Controller) design pattern, configuration of database tables using Entity Framework, customization of Razor forms, creation of controller methods, styling pages with CSS and Bootstrap, and integration of a search function to filter database results.
 
 ## Features:
 
