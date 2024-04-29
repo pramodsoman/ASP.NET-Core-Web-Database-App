@@ -4,6 +4,14 @@
 ## Overview:
 This project is a demonstration of creating a web database application using ASP.NET Core, Visual Studio, and C#. It showcases the implementation of the MVC (Model View Controller) design pattern, configuration of database tables using Entity Framework, customization of Razor forms, creation of controller methods, styling pages with CSS and Bootstrap, and integration of a search function to filter database results.
 
+## Features:
+
+- **Joke Management:** Users can create, view, edit, and delete jokes.
+- **Search:** Users can search for jokes based on keywords in the joke question.
+- **Authentication:** Users must be logged in to create, edit, or delete jokes.
+- **Authorization:** Only authenticated users can perform certain actions.
+- **Responsive Design:** The application is styled using CSS to provide a responsive user interface.
+  
 ## Project Structure:
 1. **Environment Setup:**
    - Installed Visual Studio and ASP.NET Core SDK.
